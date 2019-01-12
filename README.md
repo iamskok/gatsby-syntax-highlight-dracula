@@ -27,14 +27,18 @@ Dark syntax highliting theme for `gatsby-remark-prismjs` plugin with pre-configu
 
 ## Screenshots
 
-### HTML with styles
+### CSS
 
-![HTML](./screenshots/html.png)
+![CSS](./screenshots/css.png)
 
-### Sass
+### Inline code
 
-![Sass](./screenshots/scss.png)
+![Inline code](./screenshots/inline-code.png)
 
-### JSX
+### Line highlight
 
-![JSX](./screenshots/jsx.png)
+![Line highlight](./screenshots/line-highlight.png)
+
+### Code Selection
+
+![Code selection](./screenshots/code-selection.png)

@@ -128,7 +128,6 @@ pre[class*="language-"].line-numbers {
 
 .gatsby-highlight {
   overflow: auto;
-  margin: 15px 0;
   background-color: #282a36; }
 
 .gatsby-highlight pre[class*="language-"] {
